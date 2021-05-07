@@ -1,0 +1,20 @@
+1) посмотреть где - pwd
+2) создать папку - mkdir foldername
+3) зайти в папку - cd foldername
+4) создать 3 папки - mkdir folder1 folder2 folder3
+5) зайти в любую папку - cd folder3
+6) создать 5 файлов (3 txt и 2 json) - touch Father.txt Mother.txt Brother.txt Sister.json Grandfather.json
+7) создать 3 папки - mkdir folder4 folder5 folder6
+8) вывести список содержимого папки- ls -la
+9) + открыть любой txt-файл - vim filename
+10) + написать в файл любой текст - i (something is typed)
+11) + сохранить и выйти - esc:wq
+12) выйти из папки на уровень выше - cd ..
+13) переместить любые 2 созданные файла в любую другую созданную папку - mv folder3/Brother.txt folder3/Sister.json folder2
+14) скопировать любые 2 созданные файла в любую другую папку - cp folder3/Father.txt folder3/Mother.txt folder1
+15) найти файл по имени - find . -filename
+16) просмотреть содержимое в реальном времени - cat filename или grep otion template filename
+17) вывести несколько первых строк из текстового файла - head -X filename
+18) вывести несколько последних строк из тестового файла - tail -X fukename
+19) просмотреть содержимое длинного файла (команда less) - less filename
+20) вывести дату и время - date
