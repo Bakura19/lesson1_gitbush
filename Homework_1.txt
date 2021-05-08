@@ -18,4 +18,4 @@
 18) вывести несколько последних строк из тестового файла - tail -X fukename
 19) просмотреть содержимое длинного файла (команда less) - less filename
 20) вывести дату и время - date
-21) создать SSH-ключ - ssh-keygen -t rsa -C “usernme”
+21) создать SSH-ключ - ssh-keygen -t rsa -C “username”
