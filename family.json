@@ -1,0 +1,10 @@
+{
+         "name":"Alexander",
+	 "surname":"Bakuryn",
+	 "family":{"sister":{"Name":"Anna",
+	                    "Age":"30",
+	                    "female":true,
+	                    "passions":["sport", "bike",
+		            {"brother":"Alexander"}]}
+	 }
+}
