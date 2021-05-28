@@ -5,6 +5,6 @@
 	                    "Age":30,
 	                    "female":true,
 	                    "passions":["sport", "bike",
-		            {"brother":"Alexander"}]}
+		            {"boyfriend":"Alexander"}]}
 	 }
 }
