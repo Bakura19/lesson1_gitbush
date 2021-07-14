@@ -29,3 +29,4 @@
 29) склонировать репозиторий - git clone repo_name
 30) создать ветку - git checkout -b branchname
 31) перейти в другую ветку - git chekout brancname
+32) посмотреть все ветки и узнать в какой ветке мы находимся - git branch
