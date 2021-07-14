@@ -27,3 +27,4 @@
 27) создать ветку - git branch branchname
 28) переключиться на другую ветку - git checkout branchname
 29) склонировать репозиторий - git clone repo_name
+30) создать ветку - git checkout -b branchname
