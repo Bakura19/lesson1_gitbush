@@ -30,3 +30,4 @@
 30) создать ветку - git checkout -b branchname
 31) перейти в другую ветку - git chekout brancname
 32) посмотреть все ветки и узнать в какой ветке мы находимся - git branch
+33) смержить ветки - git merge branchname
