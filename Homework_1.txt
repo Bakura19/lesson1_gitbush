@@ -26,3 +26,4 @@
 26) добавить строку в целевой файл - echo "Add Line" >> filename
 27) создать ветку - git branch branchname
 28) переключиться на другую ветку - git checkout branchname
+29) склонировать репозиторий - git clone repo_name
