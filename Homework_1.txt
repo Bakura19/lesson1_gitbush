@@ -34,3 +34,4 @@
 34) git blame filename authorname - узнать информацию об авторе строки
 35) git blame filename | grep linename
 36) cat filename - посмотреть содержимое файла
+37) git checkout filename - откатить измениния в файле
